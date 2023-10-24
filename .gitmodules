@@ -19,3 +19,6 @@
 [submodule "robot_packages/startup/startup_button"]
 	path = robot_packages/startup/startup_button
 	url = https://github.com/Repo-Factory-Mechatronics/startup_button
+[submodule "robot_packages/gui/gui_server"]
+	path = robot_packages/gui/gui_server
+	url = https://github.com/Repo-Factory-Mechatronics/gui_server
