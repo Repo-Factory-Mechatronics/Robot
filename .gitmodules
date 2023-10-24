@@ -13,3 +13,6 @@
 [submodule "convenience_packages/bash_library"]
 	path = convenience_packages/bash_library
 	url = https://github.com/Repo-Factory-Mechatronics/bash_library
+[submodule "dependency_packages/libraries"]
+	path = dependency_packages/libraries
+	url = https://github.com/Repo-Factory-Mechatronics/can_client
