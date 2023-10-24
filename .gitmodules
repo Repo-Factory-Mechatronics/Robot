@@ -1,0 +1,15 @@
+[submodule "dependency_packages/core_dependencies"]
+	path = dependency_packages/core_dependencies
+	url = https://github.com/Repo-Factory-Mechatronics/core_dependencies
+[submodule "dependency_packages/dependency_packages/libraries"]
+	path = dependency_packages/dependency_packages/libraries
+	url = https://github.com/Repo-Factory-Mechatronics/can_client
+[submodule "robot_packages/startup/launch"]
+	path = robot_packages/startup/launch
+	url = https://github.com/Repo-Factory-Mechatronics/launch
+[submodule "robot_packages/gui"]
+	path = robot_packages/gui
+	url = https://github.com/Repo-Factory-Mechatronics/gui_server
+[submodule "convenience_packages/bash_library"]
+	path = convenience_packages/bash_library
+	url = https://github.com/Repo-Factory-Mechatronics/bash_library
