@@ -16,3 +16,6 @@
 [submodule "dependency_packages/libraries/can_client"]
 	path = dependency_packages/libraries/can_client
 	url = https://github.com/Repo-Factory-Mechatronics/can_client
+[submodule "robot_packages/startup/startup_button"]
+	path = robot_packages/startup/startup_button
+	url = https://github.com/Repo-Factory-Mechatronics/startup_button
