@@ -22,3 +22,6 @@
 [submodule "robot_packages/gui/gui_server"]
 	path = robot_packages/gui/gui_server
 	url = https://github.com/Repo-Factory-Mechatronics/gui_server
+[submodule "convenience_packages/examples/light_example"]
+	path = convenience_packages/examples/light_example
+	url = https://github.com/Repo-Factory-Mechatronics/light_example
